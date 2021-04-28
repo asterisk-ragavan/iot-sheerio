@@ -1,4 +1,4 @@
-# home automation(iot)
+# Home automation(iot)
 
 This project is based on nodeMCU(ESP8266), this is it based wifi module which can communicate with serial USB or through wifi using this I have designed to control 4 led's from the phone, google assistant and the physical buttons
 
